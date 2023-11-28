@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">storageApp</string>
+    <string name="main_title">Bienvenido a Storage App</string>
+    <string name="go_banca_app">Go to Banca App -></string>
+    <string name="go_agenda_app">Go to Agenda App -></string>
+    <string name="agenda_title">Bienvenido a Agenda App</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_contact">Email: name@example.com \n
+                                Phone: 1234567890</string>
+    <string name="banca_app_title">Bienvenido a Banca App</string>
+</resources>
